@@ -15,5 +15,10 @@ async function processaTexto(caminhoDoArquivo){
     }
 }
 
+async function processaSite(siteUrl) {
+    
+    
+}
+
 //console.log(pegaArquivo(caminho[2]));
 processaTexto(caminho)
